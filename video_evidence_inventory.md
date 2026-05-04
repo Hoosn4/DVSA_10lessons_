@@ -77,7 +77,4 @@ The following named video files were referenced by the source work and should be
 </table>
 
 ## Notes
-
-- This Markdown table follows the same organization as the final report: Lessons 1-6 use a single Video Link column, while Lessons 7-10 use separate Proof / Problem Explanation and Solution / Verification columns.
 - All links point to the SharePoint recording URLs provided by the project team.
-- Verify that every SharePoint video is shared with the required course audience before submission.
