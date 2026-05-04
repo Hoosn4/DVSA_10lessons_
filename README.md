@@ -35,6 +35,7 @@ Each lesson is organized separately and follows the required project structure: 
 .
 ├── README.md
 ├── docs/
+├── DVSA_Presentation.pptx
 │   ├── project-overview.md
 │   ├── unified-report.md
 │   └── ICS344_DVSA_Unified_Submission_Report_Lessons_1_to_10.docx
