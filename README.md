@@ -25,7 +25,7 @@ Each lesson is organized separately and follows the required project structure: 
 | ---------------- | ---------- |
 | Hussain Albaggal | s202253340 |
 | Karrar Alqallaf  | s202267840 |
-| Zeyad Alghamdi   | s202269960 |
+| Zayad Alghamdi   | s202269960 |
 
 ---
 
