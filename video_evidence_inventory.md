@@ -1,4 +1,4 @@
-# Video Evidence Inventory
+[# Video Evidence Inventory
 
 This file lists the video recording evidence referenced in the final DVSA project report. Upload this file to the GitHub repository together with the report and the recording files/links.
 
@@ -23,3 +23,4 @@ This file lists the video recording evidence referenced in the final DVSA projec
 - Lessons 7 through 10 separate proof/problem explanation from solution/verification.
 - If the actual recordings are stored in a GitHub folder such as `recordings/`, update the links to include that path, for example `recordings/lesson1_full.mp4`.
 - Keep file names exactly the same as the submitted videos to avoid broken links.
+](https://gemini.google.com/share/f603dfbb5f58)
