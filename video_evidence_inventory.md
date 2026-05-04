@@ -57,7 +57,7 @@ The following named video files were referenced by the source work and should be
     </tr>
     <tr>
       <td><strong>Lesson 8</strong></td>
-      <td><a href="https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s202267840_kfupm_edu_sa/IQCHWXqCW30RQqqTAyhqZeXrAeX232Kx-KBokQoHTjZdBzw?e=FecUWe">L8Vid_proof.mp4</a>; L8Vid_problem1 Order Billing Function.mp4; L8Vid_problem2 Order Update.mp4</td>
+      <td><a href="https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s202267840_kfupm_edu_sa/IQCHWXqCW30RQqqTAyhqZeXrAeX232Kx-KBokQoHTjZdBzw?e=FecUWe">L8Vid_proof.mp4</a></td>
       <td><a href="https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s202267840_kfupm_edu_sa/IQBfoUdCZqmtToklRBxx8VZJAaHOhwu7UzP8WKX4EAARqd8?e=FgIs2N">L8Vid_Solution.mp4</a></td>
       <td><strong>Karrar</strong></td>
     </tr>
